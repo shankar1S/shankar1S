@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I'm Shankaragouda
+
+Hi there, myself **Shankaragouda**, i am interested in **AI,ML and Datascience**.
 
 <!--
 **shankar1S/shankar1S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
