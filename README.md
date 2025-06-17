@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-orange?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://x.com/shankara__gouda/">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logoColor=white" alt="X Badge"/>
 </a>
 
   <a href="https://leetcode.com/u/shankara__gouda/">
