@@ -23,7 +23,7 @@ Hi there, myself **Shankaragouda**, i am interested in **AI,ML and Datascience**
 - **Languages**: C++, Python, SQL
 - **Tools**: Power BI, Excel, Git, Jupyter, Latex
 
-  Feel free to check out my repositories. Let's connect on [LinkedIn](https://linkedin.com/in/shankar-gouda) or [Twitter](https://twitter.com/yourname)!
+  Feel free to check out my repositories. Let's connect on [LinkedIn](https://linkedin.com/in/shankar-gouda) or [X (formerly Twitter)](https://x.com/shankara__gouda/)!
 <!--- **Frameworks**: Django, React, TensorFlow
 
 <!--
