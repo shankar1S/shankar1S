@@ -15,6 +15,15 @@
 
 Hi there, myself **Shankaragouda**, i am interested in **AI,ML and Datascience**.
 
+
+
+
+### 🛠 Tools & Technologies:
+- **Languages**: C++, Python, SQL
+
+  Feel free to check out my repositories. Let's connect on [LinkedIn](https://linkedin.com/in/shankar-gouda) or [Twitter](https://twitter.com/yourname)!
+<!--- **Frameworks**: Django, React, TensorFlow
+
 <!--
 **shankar1S/shankar1S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
