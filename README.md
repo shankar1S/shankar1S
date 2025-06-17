@@ -1,12 +1,13 @@
 ## Hi there 👋, I'm Shankaragouda
 <div id="badges">
-  <a href="https://www.linkedin.com/in/shankar-gouda">
+  <a href="https://www.linkedin.com/in/shankar-gouda/">
     <img src="https://img.shields.io/badge/LinkedIn-orange?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://leetcode.com/u/">
+  <a href="https://x.com/shankara__gouda/">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
+</a>
+
+  <a href="https://leetcode.com/u/shankara__gouda/">
     <img src="https://img.shields.io/badge/Leetcode-yello?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leet Code"/>
   </a>
 </div>
