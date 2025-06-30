@@ -14,7 +14,7 @@
 <!-- <br /> -->
 <br />
 
-Hi there, myself **Shankaragouda**, i am interested in **AI,ML and Datascience**.
+Hi there, myself **Shankaragouda**, i am interested in **AI,ML,Datascience and Web**.
 
 
 
