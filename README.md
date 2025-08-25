@@ -20,7 +20,7 @@ Hi there, myself **Shankaragouda**, i am interested in **AI,ML,Datascience and W
 
 
 ### 🛠 Tools & Technologies:
-- **Languages**: C++, Python, SQL
+- **Languages**: C++, Python, Javascript, SQL
 - **Tools**: Power BI, Excel, Git, Jupyter, Latex
 
   Feel free to check out my repositories. Let's connect on [LinkedIn](https://linkedin.com/in/shankar-gouda) or [X (Twitter)](https://x.com/shankara__gouda/)
