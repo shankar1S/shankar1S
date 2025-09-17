@@ -18,7 +18,7 @@
 - 🎓 Final-year **B.Tech student at NITK Surathkal**  
 - 💡 Passionate about **Software Development, AI/ML, and Data Science**  
 - 🌱 Currently learning **MERN stack, System Design, and Advanced ML**  
-- 🚀 Built and deployed projects like a **Real-Time Chat App**, **Movie Recommender System**, and **Credit Card Fraud Detection System**  
+- 🚀 Built and deployed projects like a **Real-Time Chat App**, and **Credit Card Fraud Detection System**  
 - 🏆 Active on **LeetCode** and improving problem-solving with DSA  
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/shankar-gouda/) or [X (Twitter)](https://x.com/shankara__gouda/)
 
