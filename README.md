@@ -25,10 +25,10 @@
 ---
 
 ### 🛠 Tools & Technologies:
-- **Languages**: C/C++, Python, JavaScript, SQL  
+- **Languages**: C++, Python, JavaScript, SQL  
 - **Frontend/Frameworks**: React, Node.js, HTML, CSS, Tailwind CSS
 - **Databases**: MongoDB, MySQL  
-- **Developer Tools**: Git, GitHub, VS Code, Linux, Postman, Jupyter, LaTeX  
+- **Developer Tools**: Git, GitHub, Linux, Postman, Jupyter, LaTeX  
 - **Other**: Machine Learning, Power BI, Excel, Docker (basic)
 
 ---
