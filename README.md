@@ -32,7 +32,7 @@
 - **Other**: Machine Learning, Power BI, Excel, Docker (basic)
 
 ---
-
+<!--
 ### 📈 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shankar1S&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
@@ -42,5 +42,6 @@
 ---
 
 ✨ _Feel free to explore my repositories and connect with me!_
+-->
 
 
