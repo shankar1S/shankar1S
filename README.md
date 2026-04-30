@@ -14,22 +14,15 @@
 
 ---
 
-### 👨‍💻 About Me:
-- 🎓 Final-year **B.Tech student at NITK Surathkal**  
-- 💡 Passionate about **Software Development, ML, and Data Science**  
-- 🌱 Currently learning **MERN stack, Next.js, TypeScript, and System Design**  
-- 🚀 Built and deployed projects like a **Real-Time Chat App**, and **Credit Card risk prediction System**  
-- 🏆 Active on **LeetCode** and improving problem-solving with DSA  
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/shankar-gouda/) or [X (Twitter)](https://x.com/shankara__gouda/)
 
----
+- 🎓 Final-year **B.Tech student at NITK Surathkal**    
 
 ### 🛠 Tools & Technologies:
 - **Languages**: C++, Python, JavaScript, SQL  
-- **Frontend/Frameworks**: React, Node.js, HTML, CSS, Tailwind CSS
-- **Databases**: MongoDB, MySQL  
-- **Developer Tools**: Git, GitHub, Linux, Postman, Jupyter, LaTeX  
-- **Other**: Machine Learning, Power BI, Excel, Docker (basic)
+- **Technologies/Frameworks**: Linux, git, Docker, SQL, MangoDB, CI/CD, React, AWS
+
+ 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/shankar-gouda/) or [X (Twitter)](https://x.com/shankara__gouda/)
+
 
 ---
 <!--
